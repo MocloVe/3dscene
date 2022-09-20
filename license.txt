@@ -1,0 +1,11 @@
+Model Information:
+* title:	3d_scene_mclv_3
+* source:	https://sketchfab.com/3d-models/3d-scene-mclv-3-19a763689e2c44cc9c6f06d490046a5e
+* author:	MocloVe (https://sketchfab.com/bocxog1)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "3d_scene_mclv_3" (https://sketchfab.com/3d-models/3d-scene-mclv-3-19a763689e2c44cc9c6f06d490046a5e) by MocloVe (https://sketchfab.com/bocxog1) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
